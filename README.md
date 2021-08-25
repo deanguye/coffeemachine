@@ -1,4 +1,4 @@
-# Assignment 1 - Implement Fully Automatic Beverage Vending Machine
+Implement Fully Automatic Beverage Vending Machine
 
 This application will dispense various types of Coffee and Tea to the individual. In addition, the Vending Machine Application will allow adding Sugar and Milk condiments at 3 units maximum for each of them.
 
